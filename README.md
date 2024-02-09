@@ -1,8 +1,5 @@
 # Matrix
 Matrix est une application web de calcul matriciel. Elle  est le fruit d'un projet d'étudiants ingénieurs conçu pour fournir des outils numériques avancés pour effectuer divers calculs matriciels complexes .
-Application de Calcul Matriciel
-Bienvenue sur la page GitHub de notre application web de calcul matriciel. Cette application est le fruit d'un projet d'étudiants ingénieurs conçu pour fournir des outils numériques avancés pour effectuer divers calculs matriciels. Développée avec le micro-framework Flask en Python, notre application offre une interface utilisateur intuitive pour effectuer des opérations complexes sur des matrices.
-
 # Fonctionnalités
 L'application prend en charge une variété d'opérations et de calculs, y compris :
 
