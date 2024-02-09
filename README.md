@@ -58,7 +58,7 @@ Pour installer et exécuter l'application localement, suivez ces étapes :
 
 ### 1- Clonez le dépôt :
 
-git clone [https://github.com/AmineDammak20/matrix.git]
+git clone https://github.com/AmineDammak20/matrix.git
 
 ### 2-Installez les dépendances : bibliothèque Flask :
 pip install Flask
