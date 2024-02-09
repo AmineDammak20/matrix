@@ -47,6 +47,7 @@ Résolution pour matrices inférieures/supérieures denses et demi-bande.
 # Technologies Utilisées
 
 Backend : Flask (Python)
+
 Frontend : HTML, CSS, JavaScript
 
 # Installation et Exécution
